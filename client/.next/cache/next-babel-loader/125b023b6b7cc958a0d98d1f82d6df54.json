@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default (function () {\n  return 'Hello there!';\n});","map":{"version":3,"sources":["C:/Users/Admin/Downloads/Dev/ticketing/client/pages/index.js"],"names":[],"mappings":"AAAA,gBAAe,YAAM;AACnB,SAAO,cAAP;AACD,CAFD","sourcesContent":["export default () => {\r\n  return 'Hello there!';\r\n};\r\n"]},"metadata":{},"sourceType":"module"}
